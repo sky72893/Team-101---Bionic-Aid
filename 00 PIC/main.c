@@ -40,7 +40,6 @@
     OF FEES, IF ANY, THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS 
     SOFTWARE.
 */
-
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/i2c1_master.h"
 #include "mcc_generated_files/examples/i2c1_master_example.h" //includes 12C example header file
