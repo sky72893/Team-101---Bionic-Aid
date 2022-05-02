@@ -273,5 +273,5 @@ void txGyro(void)
         EUSART1_Write(output);
         __delay_ms(3000);
         while(!EUSART1_is_tx_done());
-}
+ }
 }
